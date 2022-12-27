@@ -29,3 +29,33 @@ nav li{
 	padding: 7px;
 	border-radius: 28px;
 }
+
+.off-ice{
+	margin-top: -100px;
+	margin-left: 170px;
+	
+}
+#main-text{
+	margin-left: 170px;
+	padding: 20px;
+}
+div{
+	margin: 40px;
+}
+.image-gallery img{
+	padding: 60px;
+}
+.te-xt{
+	margin-top: -200px;
+	padding: 150px;
+}
+.te-xt p{
+	margin: 10px;
+}
+.in-fo{
+	color: #FFFFFF;
+	margin-left: 600px;
+	background-color: #0A22F4;
+	padding: 20px;
+	border-radius: 28px;
+}
